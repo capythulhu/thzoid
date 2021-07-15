@@ -1,4 +1,6 @@
-![Coraline father losing his work](https://media.giphy.com/media/TzRxjXf0AOx626owJz/giphy-downsized.gif)
+<p align="center">
+  <img alt="Coraline father losing his work" width=800 height=433 src="https://media.giphy.com/media/TzRxjXf0AOx626owJz/giphy-downsized.gif">
+</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thzoid&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
