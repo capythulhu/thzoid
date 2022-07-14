@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Coraline father losing his work" width=800 height=433 src="https://media.giphy.com/media/TzRxjXf0AOx626owJz/giphy-downsized.gif">
+  <img alt="Coraline father losing his work" width=800 height=433 src="https://media.giphy.com/media/55gGTev7s29mMr1ZNk/giphy.gif">
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thzoid&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
